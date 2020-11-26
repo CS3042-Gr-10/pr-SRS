@@ -14,7 +14,7 @@ $`git clone 'https://github.com/<username>/pr-SRS.git'`
 * run following commads: \
 $`npm install fs --save` \
 $`npm install mysql --save` \
-$`npm init --yes` \
+$`npm init --yes` 
 * To check you connetion with MySQL instance: \
 $`node test8.js` \
-#[output :] 2 \
+#[output :] 2 
