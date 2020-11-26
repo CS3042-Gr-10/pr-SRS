@@ -6,3 +6,8 @@ system requirement file are in here.
 * type, **command will be show when click green color botton clalled 'code'**
 `git clone 'https://github.com/<username>/pr-SRS.git'`
 
+* Download and install node [https://nodejs.org/en/download/]
+* Download and install npm [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm]
+* Dowload and install mysql [https://dev.mysql.com/downloads/mysql/]
+* Setup enviromental variables [https://overiq.com/installing-mysql-windows-linux-and-mac/]
+* goto [http://ipv4.whatismyv6.com/] site and add your ip address into myip.txt file.
