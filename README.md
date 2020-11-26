@@ -12,9 +12,9 @@ system requirement file are in here.
 * type, **command will be show when click green color botton clalled 'code'**
 `git clone 'https://github.com/<username>/pr-SRS.git'`
 * run following commads:
-`npm install fs --save`
-`npm install mysql --save`
-`npm init --yes`
+`npm install fs --save` \n
+`npm install mysql --save` \n
+`npm init --yes` \n
 * To check you connetion with MySQL instance:
 `node test8.js`
 #[output :] 2
