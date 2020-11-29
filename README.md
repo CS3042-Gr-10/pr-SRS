@@ -11,6 +11,7 @@ system requirement file are in here.
 * goto folder you want save this repo.
 * type, **command will be show when click green color botton clalled 'code'** \
 $`git clone 'https://github.com/<username>/pr-SRS.git'`
+* go into srs folder
 * run following commads: \
 $`npm install fs --save` \
 $`npm install mysql --save` \
